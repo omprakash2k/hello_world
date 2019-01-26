@@ -27,7 +27,7 @@
       <uniqueVersion>true</uniqueVersion>
       <id>propSnap</id>
       <name>dlab Snapshots</name>
-      <url>http://ec2-54-210-131-205.compute-1.amazonaws.com:8081/nexus/content/repositories/devops_Dlabs_snapshots//url>
+      <url>http://ec2-54-210-131-205.compute-1.amazonaws.com:8081/nexus/content/repositories/helloworld_snapshot/url>
       <layout>legacy</layout>
   </snapshotRepository>
 </distributionManagement>
