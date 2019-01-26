@@ -18,15 +18,15 @@
   <distributionManagement>
   <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
+      <id>dlabs_releases</id>
       <name>dlabs_releases</name>
       <url>http://ec2-54-210-131-205.compute-1.amazonaws.com:8081/nexus/content/repositories/devops_Dlabs/</url>
       <layout>default</layout>
   </repository>
   <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>propSnap</id>
-      <name>dlab Snapshots</name>
+      <id>helloworld_snapshot</id>
+      <name>helloworld_snapshot</name>
       <url>http://ec2-54-210-131-205.compute-1.amazonaws.com:8081/nexus/content/repositories/helloworld_snapshot/</url>
       <layout>legacy</layout>
   </snapshotRepository>
